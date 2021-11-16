@@ -18,7 +18,7 @@
       "properties": {
         "text": {
           "$ref": "app:vtex.native-types#/definitions/text",
-          "title": "Text close button"
+          "title": "admin/editor.drawer.drawer-close-button.title"
         }
       }
     }

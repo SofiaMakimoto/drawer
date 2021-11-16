@@ -13,6 +13,14 @@
     "composition": "children"
   },
   "drawer-close-button": {
-    "component": "DrawerCloseButton"
+    "component": "DrawerCloseButton",
+    "content": {
+      "properties": {
+        "text": {
+          "$ref": "app:vtex.native-types#/definitions/text",
+          "title": "Text close button"
+        }
+      }
+    }
   }
 }

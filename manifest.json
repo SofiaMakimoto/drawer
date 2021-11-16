@@ -14,7 +14,8 @@
     "vtex.store-icons": "0.x",
     "vtex.css-handles": "0.x",
     "vtex.responsive-values": "0.x",
-    "vtex.pixel-manager": "1.x"
+    "vtex.pixel-manager": "1.x",
+    "vtex.native-types": "0.x"
   },
   "mustUpdateAt": "2020-03-28",
   "registries": [
